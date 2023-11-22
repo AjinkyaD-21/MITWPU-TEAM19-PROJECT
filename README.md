@@ -69,5 +69,11 @@ Plot Graph:
 
 Click the "Plot Graph" button to generate and display a historical plot for the selected currency and duration.
 
+## Alternate approach (couldn't complete)
+We also tried a different UI using React but were unable to link it to our backend, because of lack of experience in flask we were unable to move ahead with it, but below are the screenshots for our React UI-
 
+
+![react2](https://github.com/AjinkyaD-21/MITWPU-TEAM19-PROJECT/assets/91340947/b342ae31-b80b-4c1f-8f8a-e01e8a492bec)
+![react3](https://github.com/AjinkyaD-21/MITWPU-TEAM19-PROJECT/assets/91340947/647eb260-209e-457c-951a-b8016a518a42)
+![react1](https://github.com/AjinkyaD-21/MITWPU-TEAM19-PROJECT/assets/91340947/eb07e737-f4de-4989-bcad-720cc6afabc9)
 
